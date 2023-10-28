@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+legend {
+    margin-bottom: 5px;
+}
+
+section {
+    margin: 20px;
+}
+
+input {
+    padding: 2px;
+    margin-bottom: 5px;
+}
+
+.btn {
+    padding: 2px;
+}
